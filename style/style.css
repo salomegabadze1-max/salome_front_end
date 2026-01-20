@@ -1272,6 +1272,8 @@ input.error {
 }
 
 .user-card {
+    width: 150px;
+    height: auto;
     background-color: #fff;
     border-radius: 20px;
     padding: 20px;
@@ -1598,4 +1600,5 @@ input.error {
     }
 
 }
+
 
