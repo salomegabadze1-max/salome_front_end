@@ -460,8 +460,6 @@ button:hover {
 .about {
     display: flex;
     border-radius: 20px;
-    /* max-width: 1290px;
-    width: calc(100% - 100px); */
     min-height: 649px;
     height: 100%;
     margin-right: 75px;
@@ -469,6 +467,7 @@ button:hover {
     margin-top: 80px;
     margin-bottom: 120px;
     background-color: rgba(222, 255, 3, 1);
+    margin-left: 60px;
 }
 
 
@@ -476,7 +475,6 @@ button:hover {
     display: block;
     max-width: 744px;
     width: auto;
-    /* width:100% */
     height: 100%;
     border-radius: 20px;
 }
@@ -1600,3 +1598,4 @@ input.error {
     }
 
 }
+
