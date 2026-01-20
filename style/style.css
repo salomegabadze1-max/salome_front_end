@@ -198,7 +198,7 @@ button:hover {
     background: linear-gradient(270deg,
             rgba(255, 255, 255, 0) 19.08%,
             #ffffff 100%),
-        url("./img/back.ph.jpg") center / cover no-repeat;
+        url("../img/back.ph.jpg") center / cover no-repeat;
 
     padding: 80px;
     position: relative;
@@ -792,7 +792,7 @@ button:hover {
 
 /* INFO IMAGE */
 .info-section {
-    background: url("./img/info\ img.jpg") center/cover no-repeat;
+    background: url("../img/info\ img.jpg") center/cover no-repeat;
     min-height: 782px;
     position: relative;
     padding-top: 123px;
@@ -1598,4 +1598,5 @@ input.error {
     to {
         transform: translateY(0);
     }
+
 }
